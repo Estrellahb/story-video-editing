@@ -1,0 +1,4 @@
+interface:
+  display_name: "故事视频剪辑"
+  short_description: "确认素材范围与故事链，剪辑完整故事并交付视频、字幕、发布文案及双比例封面"
+  default_prompt: "使用 $story-video-editing 处理这段未剪辑素材，先确认风格、起止范围、目标时长和故事链，再按我的默认规格剪辑交付。"
